@@ -1,1 +1,7 @@
 hello world
+
+Untracked: New files Git doesn't know about yet.
+Unstaged: Tracked files with modifications that are not yet in the staging area.
+Staged: Files (or changes within files) that are ready to be committed to the repository.
+
+something got updated...
